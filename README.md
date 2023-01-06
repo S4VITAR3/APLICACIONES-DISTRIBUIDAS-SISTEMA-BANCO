@@ -1,7 +1,7 @@
 # APLICACIONES-DISTRIBUIDAS-SISTEMA-BANCO
 ## INSTITUO TECNOLÓGICO DE CHILPANCINGO
-
-# Se presenta un sistema de banco para la materia de Aplicaciones distribuidas, el sistema contiene la siguiente estructura:
+## INGENIERÍA EN SISTEMAS COMPUTACIONALES
+### Se presenta un sistema de banco para la materia de Aplicaciones distribuidas, el sistema contiene la siguiente estructura:
 1. Vista Administrador
 2. Vista Cliente
 3. Vista Cajero
