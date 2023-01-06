@@ -10,5 +10,6 @@
 6. API SOAP
 7. BASE DE DATOS DEL SISTEMA
 
-Realizado por: Jonathan Gaudencio Salvador Tolentino\n
+Realizado por: Jonathan Gaudencio Salvador Tolentino
+
 Fecha: 05/01/2023
