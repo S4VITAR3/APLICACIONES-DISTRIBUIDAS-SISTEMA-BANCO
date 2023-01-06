@@ -1,0 +1,243 @@
+body {
+  position: absolute;
+  width: auto;
+  height: auto;
+  left: 0px;
+  top: 0px;
+
+  background: #a2bce3;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nav-bar {
+  position: absolute;
+  width: 1430px;
+  height: 70px;
+  left: 0px;
+  top: -10px;
+  background: #7aa0cd;
+}
+
+.bienvenida {
+  position: absolute;
+  width: 432px;
+  height: 48px;
+  left: -20px;
+  top: 18px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+  padding-left: 30px;
+}
+
+.btn-capturar {
+  position: absolute;
+  width: 150px;
+  height: 40px;
+  left: 850px;
+  top: 21px;
+
+  background: #917de0;
+  border-radius: 10px;
+  border: 0;
+}
+
+.lbl-capturar {
+  position: absolute;
+  width: 216px;
+  height: 48px;
+  left: -35px;
+  top: -24px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.btn-depositar {
+  position: absolute;
+  width: 150px;
+  height: 40px;
+  left: 1050px;
+  top: 21px;
+
+  background: #7d61ed;
+  border-radius: 10px;
+  border: 0;
+}
+
+.lbl-deposito {
+  position: absolute;
+  width: 216px;
+  height: 48px;
+  left: -35px;
+  top: -24px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.btn-salir {
+  position: absolute;
+  width: 150px;
+  height: 40px;
+  left: 1250px;
+  top: 21px;
+  background: #ed5050;
+  border-radius: 10px;
+  border: 0;
+}
+
+.lbl-salir {
+  position: absolute;
+  width: 216px;
+  height: 48px;
+  left: -35px;
+  top: -24px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.contenedor {
+  position: absolute;
+  width: 577px;
+  height: 500px;
+  left: 420px;
+  top: 151px;
+  background: #ffffff;
+  box-shadow: inset 0px 4px 4px rgba(5, 5, 6, 0);
+}
+
+.title {
+  position: absolute;
+  width: 665px;
+  height: 48px;
+  left: -45px;
+  top: 1px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.lbl-cuenta {
+  position: absolute;
+  width: 95px;
+  height: 30px;
+  left: 240px;
+  top: 300px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.input-cuenta {
+  position: absolute;
+  width: 300px;
+  height: 30px;
+  left: 140px;
+  top: 330px;
+
+  background: #c5ffc4;
+  border-radius: 10px;
+  border: 0;
+}
+
+.lbl-cantidad {
+  position: absolute;
+  width: 95px;
+  height: 30px;
+  left: 240px;
+  top: 370px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.input-cantidad {
+  position: absolute;
+  width: 300px;
+  height: 30px;
+  left: 140px;
+  top: 400px;
+
+  background: #c5ffc4;
+  border-radius: 10px;
+  border: 0;
+}
+
+.img-enca {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 190px;
+  top: 90px;
+  border: 1px solid black;
+  background: url(/img/cajero.png);
+  background-size: cover;
+}
+
+.btn-guardar {
+  position: absolute;
+  width: 150px;
+  height: 30px;
+  left: 210px;
+  top: 450px;
+
+  background: #8cbd84;
+  border-radius: 10px;
+  border: 0;
+}
+
+.lbl-boton {
+  position: absolute;
+  width: 200px;
+  height: 36px;
+  left: -25px;
+  top: -29px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 36px;
+  text-align: center;
+  color: #fffafa;
+}
